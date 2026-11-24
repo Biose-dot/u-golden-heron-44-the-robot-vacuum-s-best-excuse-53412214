@@ -7,11 +7,11 @@
 Entry for the [make.fun](https://make.fun) bounty
 [The Robot Vacuum's Best Excuse](https://make.fun/c/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214).
 
-The robot vacuum explains why it skipped a spot: it was giving the dust a head start, because fairness matters, even to a vacuum.
+The vacuum upgrades its excuse from sportsmanship to property law: the dust in that corner is a paying tenant now, and a polite machine respects a tenant's privacy.
 
 `main.py` (Python 3) writes the entry to `/output/entry.txt`:
 
-> I didn't miss that spot. I was giving the dust a head start. Fairness matters, even to a vacuum.
+> I skipped that corner on purpose — the dust there pays rent now, and I respect a tenant's privacy.
 
 Run it locally with:
 
