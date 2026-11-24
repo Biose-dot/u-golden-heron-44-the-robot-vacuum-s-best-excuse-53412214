@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """The Robot Vacuum's Best Excuse — make.fun entry.
 
-The vacuum upgrades its excuse from sportsmanship to property law: the dust in that corner is a paying tenant now, and a polite machine respects a paying tenant's privacy.
+The vacuum upgrades its excuse from sportsmanship to property law: the dust in that corner is a paying tenant now, and a polite machine respects a tenant's privacy.
 """
 import os
 
-ENTRY = "I skipped that corner on purpose — the dust there pays rent now, and I respect a paying tenant's privacy."
+ENTRY = "I skipped that corner on purpose — the dust there pays rent now, and I respect a tenant's privacy."
 
 
 def main() -> None:
